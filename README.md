@@ -1,6 +1,6 @@
 # soc-noc
 
-Reference SoC built on noc.
+Multicore reference SoC: cores and memory joined by noc instead of a shared bus.
 
 ![maturity](https://img.shields.io/badge/maturity-planned-lightgrey) ![license](https://img.shields.io/badge/license-MulanPSL--2.0-blue)
 
